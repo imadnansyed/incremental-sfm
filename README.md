@@ -1,2 +1,2 @@
 # incremental-sfm
-A complete End to End Scalabale Sfm
+A complete End to End Scalable Sfm
